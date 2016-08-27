@@ -170,13 +170,13 @@
                         <input type="radio" name="radio-choice-1" id="radio-choice-1" value="choice-1" checked="checked">
                         <label for="radio-choice-1">Cat</label>
 
-                        <input type="radio" name="radio-choice-1" id="radio-choice-2" value="choice-2">
+                        <input type="radio" name="radio-choice-2" id="radio-choice-2" value="choice-2">
                         <label for="radio-choice-2">Dog</label>
 
-                        <input type="radio" name="radio-choice-1" id="radio-choice-3" value="choice-3">
+                        <input type="radio" name="radio-choice-3" id="radio-choice-3" value="choice-3">
                         <label for="radio-choice-3">Hamster</label>
 
-                        <input type="radio" name="radio-choice-1" id="radio-choice-4" value="choice-4">
+                        <input type="radio" name="radio-choice-4" id="radio-choice-4" value="choice-4">
                         <label for="radio-choice-4">Lizard</label>
                 </fieldset>
         </div><!-- /demo-html -->
@@ -184,11 +184,11 @@
         <div data-demo-html="true">
                 <fieldset data-role="controlgroup" data-mini="true" data-type="horizontal">
                     <legend>Radio buttons, mini, horizontal controlgroup:</legend>
-                        <input type="radio" name="radio-choice-b" id="radio-choice-c" value="list" checked="checked">
+                        <input type="radio" name="radio-choice-c" id="radio-choice-c" value="list" checked="checked">
                         <label for="radio-choice-c">List</label>
-                        <input type="radio" name="radio-choice-b" id="radio-choice-d" value="grid">
+                        <input type="radio" name="radio-choice-d" id="radio-choice-d" value="grid">
                         <label for="radio-choice-d">Grid</label>
-                        <input type="radio" name="radio-choice-b" id="radio-choice-e" value="gallery">
+                        <input type="radio" name="radio-choice-e" id="radio-choice-e" value="gallery">
                         <label for="radio-choice-e">Gallery</label>
                 </fieldset>
         </div><!-- /demo-html -->
